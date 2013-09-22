@@ -11,7 +11,7 @@ var dk = {};
 	};
 
 	var formatNumber = function(number) {
-		var thousand = '.';
+		var thousand = ',';
 		var negative = number < 0 ? "-" : "";
 		var absNumber = Math.abs(+number || 0) + "";
 		var thousands = (absNumber.length > 3) ? absNumber.length % 3 : 0;
@@ -21,7 +21,14 @@ var dk = {};
 	var toLiteral = function(array) {
 		var literal = {};
 		_.each(array, function(element) {
-			literal[element.name] = element.value;
+			if (element.name == 'parteien') {
+				if (!literal[element.name]) {
+					literal[element.name] = [];
+				}
+				literal[element.name].push(element.value);
+			} else {
+				literal[element.name] = element.value;
+			}
 		});
 		return literal;
 	};
@@ -37,6 +44,7 @@ var dk = {};
 		loopUsageData: [],
 		loopBoundary: [],
 		settings: {},
+		filter: data,
 		init: function() {
 			this.leafletMap = L.map('map', {
 				center: [51.165691, 10.451526],
@@ -51,7 +59,7 @@ var dk = {};
 				'maxZoom': 18
 			}).addTo(this.leafletMap);
 
-			$(dk).on('map.loaded.areaLayers map.loaded.data', _.bind(this.fireMapIsReady, this));
+			$(dk).on('map.loaded.areaLayers map.loaded.bewerber', _.bind(this.fireMapIsReady, this));
 			$(dk).on('map.ready', _.bind(this.renderComparison, this));
 
 			this.fillPartySelect(parteien);
@@ -60,7 +68,7 @@ var dk = {};
 			this.settings = toLiteral($('.settings').serializeArray());
 
 			this.loadAreaLayers();
-			this.loadData();
+			this.loadBewerber();
 		},
 		fillPartySelect: function(parteien) {
 			var html = '';
@@ -74,8 +82,9 @@ var dk = {};
 			this.renderComparison();
 		},
 		renderComparison: function() {
-			var log10Boundary = this.getLog10Boundary(this.districts);
-			this.colorLayers(this.districts, log10Boundary);
+			var districtData = this.filter.age(this.settings.parteien);
+			var log10Boundary = this.getLog10Boundary(districtData);
+			this.colorLayers(districtData, log10Boundary);
 		},
 		getLog10Boundary: function(districts) {
 			var max = 0;
@@ -95,9 +104,19 @@ var dk = {};
 			_.each(districts, _.bind(function(district) {
 				var layer = this.getAreaLayer(district.key);
 				if (layer) {
+					var bewerber = _.filter(dk.bewerber, function(einBewerber) {
+						return einBewerber.wahlkreis == district.key;
+					});
+
 					var style = this.getLayerStyle(district.value, log10Boundary);
 					var html = "Wahlkreis: <strong>" + layer.label + "</strong><br /><br />";
-					html += "Durchschnittsalter: " + formatNumber(district.value);
+					html += "<table class='table table-condensed table-bordered'>";
+					_.each(bewerber, function(einBewerber) {
+						var alter = (new Date().getFullYear()) - einBewerber.geburtsjahr;
+						html += '<tr><td>' + einBewerber.partei + '</td><td>' + alter + '</td></tr>';
+					});
+					html += "</table>";
+					html += "<em>Durchschnittsalter: " + formatNumber(Math.round(district.value)) + "</em>";
 
 					_.each(this.areaLayers, _.bind(function(area) {
 						if (area.key === parseInt(district.key, 10)) {
@@ -106,7 +125,7 @@ var dk = {};
 						}
 					}, this));
 				} else {
-					console.error('no layer for district ' + district.name);
+					console.log('no layer for district ' + district.name);
 				}
 			}, this));
 		},
@@ -140,7 +159,7 @@ var dk = {};
 			return Math.round((safeLog10(value) - log10Boundary[1]) / (log10Boundary[0] - log10Boundary[1]) * 100) / 100;
 		},
 		fireMapIsReady: function() {
-			if (!_.isEmpty(this.districts) && !_.isEmpty(this.areaLayers)) {
+			if (!_.isEmpty(this.areaLayers) && !_.isEmpty(this.bewerber)) {
 				$('#loading').remove();
 				$(dk).triggerHandler('map.ready');
 			}
@@ -172,10 +191,11 @@ var dk = {};
 				return area.key == key;
 			});
 		},
-		loadData: function() {
-			$.getJSON('data-filtered/age.json', _.bind(function(data) {
-				this.districts = data;
-				$(dk).triggerHandler('map.loaded.data');
+		loadBewerber: function() {
+			$.getJSON('data/bewerber-btw13.json', _.bind(function(data) {
+				this.bewerber = data;
+				dk.bewerber = data;
+				$(dk).triggerHandler('map.loaded.bewerber');
 			}, this));
 		}
 	};
