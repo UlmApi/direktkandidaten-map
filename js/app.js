@@ -55,7 +55,7 @@ var dk = {};
 				maxZoom: 12
 			});
 
-			var attribution = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>';
+			var attribution = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>, Created by: Michael Müller, <a href="http://blog.opendatalab.de">Felix Ebert</a>';
 			L.tileLayer('http://{s}.tile.cloudmade.com/036a729cf53d4388a8ec345e1543ef53/44094/256/{z}/{x}/{y}.png', {
 				'attribution': attribution,
 				'maxZoom': 18
@@ -157,6 +157,9 @@ var dk = {};
 			var colorScheme = (value <= 0) ? colors.orange : colors.blue;
 			var factor = this.getComparisonFactor(value, log10Boundary);
 			var colorIndex = Math.max(0, Math.round((colorScheme.length - 1) * factor));
+			if (this.settings.parteien.length === 1) {
+				colorIndex -= 2;
+			}
 			return colorScheme[colorIndex];
 		},
 		getOpacity: function(value, log10Boundary) {
