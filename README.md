@@ -1,6 +1,9 @@
 # Readme
 
-Ergebnis ist online unter http://www.ulmapi.de/direktkandidaten-map.
+Wo kandidieren die jüngsten Direktkandidaten? In welchem Wahlkreis stehen
+am meisten Kandidatinnen zur Wahl?
+
+Antworten liefert unsere interaktive Karte: http://www.ulmapi.de/direktkandidaten-map.
 
 
 ## Wahlbewerber Bundestagswahl 2013 
