@@ -52,35 +52,31 @@ var dk = {};
 			}).addTo(this.leafletMap);
 
 			$(dk).on('map.loaded.areaLayers map.loaded.data', _.bind(this.fireMapIsReady, this));
-			$(dk).on('map.ready', _.bind(this.renderLast, this));
+			$(dk).on('map.ready', _.bind(this.renderComparison, this));
 
 			$('.settings').on('change', _.bind(this.onSettingsChange, this));
 			this.settings = toLiteral($('.settings').serializeArray());
 
 			this.loadAreaLayers();
+			this.loadData();
 		},
 		onSettingsChange: function() {
 			this.settings = toLiteral($('.settings').serializeArray());
-			if (this.loopUsageData.length <= 1) {
-				this.renderLast();
-			} else {
-				this.setLoopBoundary();
-			}
+			this.renderComparison();
 		},
-		renderLast: function() {
-			var districtData = this.getDistrictData(this.lastUsageDataFilter);
-			var log10Boundary = this.getLog10Boundary(districtData);
-			this.colorLayers(districtData, log10Boundary);
+		renderComparison: function() {
+			var log10Boundary = this.getLog10Boundary(this.districts);
+			this.colorLayers(this.districts, log10Boundary);
 		},
 		getLog10Boundary: function(districts) {
 			var max = 0;
 			var min = 100000;
 			_.each(districts, _.bind(function(district) {
-				if (district.comparisonValue > max) {
-					max = district.comparisonValue;
+				if (district.value > max) {
+					max = district.value;
 				}
-				if (district.comparisonValue < min && district.comparisonValue > 0) {
-					min = district.comparisonValue;
+				if (district.value < min && district.value > 0) {
+					min = district.value;
 				}
 			}, this));
 			var log10Boundary = [safeLog10(max), safeLog10(min)];
@@ -88,26 +84,14 @@ var dk = {};
 		},
 		colorLayers: function(districts, log10Boundary) {
 			_.each(districts, _.bind(function(district) {
-				var layer = this.getAreaLayer(district.name);
+				var layer = this.getAreaLayer(district.key);
 				if (layer) {
-					var style = this.getLayerStyle(district.comparisonValue, log10Boundary);
-					var date = new Date(district.usageData.timestamp);
-					var html = "Bezirk: <strong>" + district.name + "</strong><br /><br />";
-					html += "<table class='table table-condensed table-bordered'>";
-					html += "<tr><th style='width:160px'>Zeitpunkt</th><td style='width:70px'>" + fillTime(date.getDate()) + '.'
-							+ fillTime(date.getMonth() + 1) + '.2013 ' + fillTime(date.getHours()) + ":" + fillTime(date.getMinutes()) + "</td></tr>";
-					html += "<tr><th>Erzeugte Energie</th><td>" + (Math.round(district.usageData.generation * 100) / 100) + " MW</td></tr>";
-					html += "<tr><th>Verbrauch absolut</th><td>" + (Math.round(district.usageData.usage * 100) / 100) + " MW</td></tr>";
-					html += "<tr><th>High Voltage Customers</th><td>" + (Math.round(district.usageData['key-acount-usage'] * 100) / 100) + " MW</td></tr>";
-					html += "<tr><th>Verbrauch abzgl. HVC</th><td>"
-							+ (Math.round((district.usageData.usage - district.usageData['key-acount-usage']) * 100) / 100) + " MW</td></tr>";
-					html += "<tr><th>Einwohnerzahl</th><td>" + formatNumber(district.ewz) + "</td></tr>";
-					html += "<tr><th>Verbrauch / Einwohner</th><td>" + district.usageByPopulation + " Watt</td></tr>";
-					html += "</table><em>maßgebender Wert für die Einfärbung: " + Math.round(district.comparisonValue * 100) / 100 + " "
-							+ district.comparisonValueUnit + "</em>";
+					var style = this.getLayerStyle(district.value, log10Boundary);
+					var html = "Wahlkreis: <strong>" + layer.label + "</strong><br /><br />";
+					html += district.value;
 
 					_.each(this.areaLayers, _.bind(function(area) {
-						if (area.key === district.name) {
+						if (area.key === district.key) {
 							area.value.setStyle(style);
 							area.value.bindPopup(html);
 						}
@@ -128,7 +112,7 @@ var dk = {};
 				return '#EEE';
 			}
 
-			var colorScheme = (value <= 0 || this.settings.compare === 'generation') ? colors.green : colors.red;
+			var colorScheme = (value <= 0) ? colors.green : colors.red;
 			var factor = this.getComparisonFactor(value, log10Boundary);
 			var colorIndex = Math.max(0, Math.round((colorScheme.length - 1) * factor));
 			return colorScheme[colorIndex];
@@ -147,7 +131,7 @@ var dk = {};
 			return Math.round((safeLog10(value) - log10Boundary[1]) / (log10Boundary[0] - log10Boundary[1]) * 100) / 100;
 		},
 		fireMapIsReady: function() {
-			if (!_.isEmpty(this.data) && !_.isEmpty(this.areaLayers)) {
+			if (!_.isEmpty(this.districts) && !_.isEmpty(this.areaLayers)) {
 				$('#loading').remove();
 				$(dk).triggerHandler('map.ready');
 			}
@@ -169,8 +153,8 @@ var dk = {};
 		},
 		addAreaLayer: function(feature, layer) {
 			this.areaLayers.push({
-				'key': feature.properties.Name,
-				'label': feature.properties.Name,
+				'key': feature.properties['WKR_NR'],
+				'label': feature.properties['WKR_NAME'],
 				'value': layer
 			});
 		},
@@ -178,6 +162,12 @@ var dk = {};
 			return _.find(this.areaLayers, function(area) {
 				return area.key == key;
 			});
+		},
+		loadData: function() {
+			$.getJSON('data/alter.json', _.bind(function(data) {
+				this.districts = data;
+				$(dk).triggerHandler('map.loaded.data');
+			}, this));
 		}
 	};
 
