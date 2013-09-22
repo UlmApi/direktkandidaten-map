@@ -121,7 +121,14 @@ var dk = {};
 								+ '</td></tr>';
 					});
 					html += "</table>";
-					html += "<em>maßgeblicher Wert für die Einfärbung: " + formatNumber(Math.round(district.value)) + "</em>";
+					if (this.settings.compare === 'gender') {
+						var percent = Math.round(((district.value + 1) / 2) * 100);
+						var gender = percent <= 50 ? 'weiblich' : 'männlich';
+						var percent = percent <= 50 ? (100 - percent) : percent;
+						html += "<em>maßgeblicher Wert für die Einfärbung: " + percent + "% " + gender + "</em>";
+					} else {
+						html += "<em>maßgeblicher Wert für die Einfärbung: " + formatNumber(Math.round(district.value)) + " Jahre</em>";
+					}
 
 					_.each(this.areaLayers, _.bind(function(area) {
 						if (area.key === parseInt(district.key, 10)) {

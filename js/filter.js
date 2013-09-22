@@ -47,27 +47,26 @@ var data = {
 
 			for ( var p in parteien) {
 				if (bewerber.partei === parteien[p]) {
-					if (wahlkreis_gender[bewerber.wahlkreis] == undefined)
-						wahlkreis_gender[bewerber.wahlkreis] = [];
+					if (wahlkreis_gender_m[bewerber.wahlkreis] == undefined)
+						wahlkreis_gender_m[bewerber.wahlkreis] = 0;
+					if (wahlkreis_gender_w[bewerber.wahlkreis] == undefined)
+						wahlkreis_gender_w[bewerber.wahlkreis] = 0;
 
 					if (bewerber.geschlecht === 1)
-						wahlkreis_gender_m[bewerber.wahlkreis].push(bewerber.geschlecht);
+						wahlkreis_gender_m[bewerber.wahlkreis]++;
 
-					if (bewerber.geschlecht === -1)
-						wahlkreis_gender_w[bewerber.wahlkreis].push(bewerber.geschlecht);
+					if (bewerber.geschlecht === 2)
+						wahlkreis_gender_w[bewerber.wahlkreis]++;
 				}
 			}
 		}
 
 		/* get average gender value */
 		var res = [];
-		for ( var i in wahlkreis_age) {
-			// console.log(i)
-			var sum_m = wahlkreis_gender_m[i].reduce(function(pv, cv) {
-				return pv + cv;
-			}, 0);
+		for ( var i in wahlkreis_gender_m) {
+			var sum_m = wahlkreis_gender_m[i];
 
-			var perc_m = sum_m / (wahlkreis_gender_m.length + wahlkreis_gender_w);
+			var perc_m = sum_m / (sum_m + wahlkreis_gender_w[i]);
 
 			res.push({
 				"key": i,
