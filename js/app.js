@@ -55,7 +55,7 @@ var dk = {};
 				maxZoom: 12
 			});
 
-			var attribution = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>';
+			var attribution = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>, Created by: Michael Müller, <a href="http://blog.opendatalab.de">Felix Ebert</a>';
 			L.tileLayer('http://{s}.tile.cloudmade.com/036a729cf53d4388a8ec345e1543ef53/44094/256/{z}/{x}/{y}.png', {
 				'attribution': attribution,
 				'maxZoom': 18
@@ -103,9 +103,11 @@ var dk = {};
 			return log10Boundary;
 		},
 		colorLayers: function(districts, log10Boundary) {
-			_.each(districts, _.bind(function(district) {
-				var layer = this.getAreaLayer(district.key);
-				if (layer) {
+			_.each(this.areaLayers, _.bind(function(layer) {
+				var district = _.find(districts, function(currentDistrict) {
+					return currentDistrict.key == layer.key;
+				});
+				if (district) {
 					var bewerber = _.filter(dk.bewerber, function(einBewerber) {
 						return einBewerber.wahlkreis == district.key;
 					});
@@ -124,20 +126,20 @@ var dk = {};
 					if (this.settings.compare === 'gender') {
 						var percent = Math.round(((district.value + 1) / 2) * 100);
 						var gender = percent <= 50 ? 'weiblich' : 'männlich';
-						var percent = percent <= 50 ? (100 - percent) : percent;
-						html += "<em>maßgeblicher Wert für die Einfärbung: " + percent + "% " + gender + "</em>";
+						var genderPercent = percent <= 50 ? (100 - percent) : percent;
+						html += "<em>maßgeblicher Wert für die Einfärbung: " + genderPercent + "% " + gender + "</em>";
 					} else {
 						html += "<em>maßgeblicher Wert für die Einfärbung: " + formatNumber(Math.round(district.value)) + " Jahre</em>";
 					}
 
-					_.each(this.areaLayers, _.bind(function(area) {
-						if (area.key === parseInt(district.key, 10)) {
-							area.value.setStyle(style);
-							area.value.bindPopup(html);
-						}
-					}, this));
+					layer.value.setStyle(style);
+					layer.value.bindPopup(html);
 				} else {
-					console.log('no layer for district ' + district.name);
+					console.log('no district for layer ' + layer.key);
+					layer.value.setStyle({
+						'fillOpacity': 0.65,
+						'fillColor': '#F0F0F0'
+					});
 				}
 			}, this));
 		},
@@ -155,6 +157,9 @@ var dk = {};
 			var colorScheme = (value <= 0) ? colors.orange : colors.blue;
 			var factor = this.getComparisonFactor(value, log10Boundary);
 			var colorIndex = Math.max(0, Math.round((colorScheme.length - 1) * factor));
+			if (this.settings.parteien.length === 1) {
+				colorIndex -= 2;
+			}
 			return colorScheme[colorIndex];
 		},
 		getOpacity: function(value, log10Boundary) {
