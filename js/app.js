@@ -11,7 +11,7 @@ var dk = {};
 	};
 
 	var formatNumber = function(number) {
-		var thousand = '.';
+		var thousand = ',';
 		var negative = number < 0 ? "-" : "";
 		var absNumber = Math.abs(+number || 0) + "";
 		var thousands = (absNumber.length > 3) ? absNumber.length % 3 : 0;
@@ -104,9 +104,19 @@ var dk = {};
 			_.each(districts, _.bind(function(district) {
 				var layer = this.getAreaLayer(district.key);
 				if (layer) {
+					var bewerber = _.filter(dk.bewerber, function(einBewerber) {
+						return einBewerber.wahlkreis == district.key;
+					});
+
 					var style = this.getLayerStyle(district.value, log10Boundary);
 					var html = "Wahlkreis: <strong>" + layer.label + "</strong><br /><br />";
-					html += "Durchschnittsalter: " + district.value;
+					html += "<table class='table table-condensed table-bordered'>";
+					_.each(bewerber, function(einBewerber) {
+						var alter = (new Date().getFullYear()) - einBewerber.geburtsjahr;
+						html += '<tr><td>' + einBewerber.partei + '</td><td>' + alter + '</td></tr>';
+					});
+					html += "</table>";
+					html += "<em>Durchschnittsalter: " + formatNumber(Math.round(district.value)) + "</em>";
 
 					_.each(this.areaLayers, _.bind(function(area) {
 						if (area.key === parseInt(district.key, 10)) {
