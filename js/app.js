@@ -91,7 +91,7 @@ var dk = {};
 					html += district.value;
 
 					_.each(this.areaLayers, _.bind(function(area) {
-						if (area.key === district.key) {
+						if (area.key === parseInt(district.key, 10)) {
 							area.value.setStyle(style);
 							area.value.bindPopup(html);
 						}
@@ -164,7 +164,7 @@ var dk = {};
 			});
 		},
 		loadData: function() {
-			$.getJSON('data/alter.json', _.bind(function(data) {
+			$.getJSON('data-filtered/age.json', _.bind(function(data) {
 				this.districts = data;
 				$(dk).triggerHandler('map.loaded.data');
 			}, this));
