@@ -4,30 +4,33 @@ var data = {
 		var wahlkreis_age = {};
 
 		/* prepare wahlkreis_age */
-		for (var i in dk.bewerber) {
-			var age = (new Date().getFullYear()) - dk.bewerber.geburtsjahr;
+		for ( var i in dk.bewerber) {
+			var bewerber = dk.bewerber[i];
+			var age = (new Date().getFullYear()) - bewerber.geburtsjahr;
 
-			for (var p in parteien) {
-				if (dk.bewerber.partei === parteien[p]) {
-					if (wahlkreis_age[dk.bewerber.wahlkreis] == undefined)
-						wahlkreis_age[dk.bewerber.wahlkreis] = [];
+			for ( var p in parteien) {
+				if (bewerber.partei === parteien[p]) {
+					if (wahlkreis_age[bewerber.wahlkreis] == undefined)
+						wahlkreis_age[bewerber.wahlkreis] = [];
 
-					wahlkreis_age[wahlkreis].push(age);
+					wahlkreis_age[bewerber.wahlkreis].push(age);
 				}
 			}
 		}
 
 		/* get average age value */
 		var res = [];
-		for (var i in wahlkreis_age) {
-			//console.log(i)
-			var sum = wahlkreis_age[i].reduce(function(pv, cv) { return pv + cv; }, 0);
-			res.push( {"key": i, "value": sum / wahlkreis_age[i].length} );
+		for ( var i in wahlkreis_age) {
+			// console.log(i)
+			var sum = wahlkreis_age[i].reduce(function(pv, cv) {
+				return pv + cv;
+			}, 0);
+			res.push({
+				"key": i,
+				"value": sum / wahlkreis_age[i].length
+			});
 		}
 
-		//console.log( JSON.stringify(res, null, "\t") );
 		return res;
 	}
 }
-
-

@@ -7,7 +7,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":157
   },
   {
@@ -29,7 +29,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":22
   },
   {
@@ -139,7 +139,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":297
   },
   {
@@ -150,7 +150,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":119
   },
   {
@@ -161,7 +161,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":50
   },
   {
@@ -183,7 +183,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":3
   },
   {
@@ -205,7 +205,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":15
   },
   {
@@ -216,7 +216,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":90
   },
   {
@@ -227,7 +227,7 @@
     "geschlecht":2,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":12
   },
   {
@@ -260,7 +260,7 @@
     "geschlecht":2,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":101
   },
   {
@@ -293,7 +293,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":256
   },
   {
@@ -326,7 +326,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":116
   },
   {
@@ -414,7 +414,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":11
   },
   {
@@ -425,7 +425,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":226
   },
   {
@@ -700,7 +700,7 @@
     "geschlecht":2,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":259
   },
   {
@@ -733,7 +733,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":58
   },
   {
@@ -788,7 +788,7 @@
     "geschlecht":2,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":209
   },
   {
@@ -799,7 +799,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":212
   },
   {
@@ -876,7 +876,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":186
   },
   {
@@ -953,7 +953,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":127
   },
   {
@@ -986,7 +986,7 @@
     "geschlecht":1,
     "partei":"NEIN!",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":214
   },
   {
@@ -1041,7 +1041,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":131
   },
   {
@@ -1063,7 +1063,7 @@
     "geschlecht":2,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":93
   },
   {
@@ -1085,7 +1085,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":90
   },
   {
@@ -1250,7 +1250,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":87
   },
   {
@@ -1316,7 +1316,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":221
   },
   {
@@ -1393,7 +1393,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":169
   },
   {
@@ -1437,7 +1437,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":214
   },
   {
@@ -1448,7 +1448,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":248
   },
   {
@@ -1525,7 +1525,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":298
   },
   {
@@ -1536,7 +1536,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":295
   },
   {
@@ -1569,7 +1569,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":155
   },
   {
@@ -1679,7 +1679,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":269
   },
   {
@@ -1701,7 +1701,7 @@
     "geschlecht":1,
     "partei":"SPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":19
   },
   {
@@ -1756,7 +1756,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":28
   },
   {
@@ -2009,7 +2009,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":223
   },
   {
@@ -2031,7 +2031,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":72
   },
   {
@@ -2053,7 +2053,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":164
   },
   {
@@ -2064,7 +2064,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":88
   },
   {
@@ -2108,7 +2108,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":52
   },
   {
@@ -2119,7 +2119,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":182
   },
   {
@@ -2196,7 +2196,7 @@
     "geschlecht":1,
     "partei":"BüSo",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":93
   },
   {
@@ -2284,7 +2284,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":147
   },
   {
@@ -2306,7 +2306,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":136
   },
   {
@@ -2317,7 +2317,7 @@
     "geschlecht":1,
     "partei":"SPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":135
   },
   {
@@ -2416,7 +2416,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":83
   },
   {
@@ -2449,7 +2449,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":171
   },
   {
@@ -2548,7 +2548,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":291
   },
   {
@@ -2559,7 +2559,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":263
   },
   {
@@ -2647,7 +2647,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":293
   },
   {
@@ -2691,7 +2691,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":190
   },
   {
@@ -2757,7 +2757,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":96
   },
   {
@@ -2779,7 +2779,7 @@
     "geschlecht":1,
     "partei":"DIE VIOLETTEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":281
   },
   {
@@ -2845,7 +2845,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":8
   },
   {
@@ -2856,7 +2856,7 @@
     "geschlecht":2,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":124
   },
   {
@@ -2966,7 +2966,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":181
   },
   {
@@ -3032,7 +3032,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":232
   },
   {
@@ -3098,7 +3098,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":110
   },
   {
@@ -3109,7 +3109,7 @@
     "geschlecht":2,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":48
   },
   {
@@ -3153,7 +3153,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":237
   },
   {
@@ -3164,7 +3164,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":183
   },
   {
@@ -3186,7 +3186,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":257
   },
   {
@@ -3197,7 +3197,7 @@
     "geschlecht":2,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":122
   },
   {
@@ -3219,7 +3219,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":6
   },
   {
@@ -3263,7 +3263,7 @@
     "geschlecht":1,
     "partei":"DIE VIOLETTEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":264
   },
   {
@@ -3296,7 +3296,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":264
   },
   {
@@ -3384,7 +3384,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":265
   },
   {
@@ -3472,7 +3472,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":260
   },
   {
@@ -3483,7 +3483,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":129
   },
   {
@@ -3549,7 +3549,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":100
   },
   {
@@ -3593,7 +3593,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":149
   },
   {
@@ -3626,7 +3626,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":239
   },
   {
@@ -3637,7 +3637,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":101
   },
   {
@@ -3714,7 +3714,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":123
   },
   {
@@ -3736,7 +3736,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":101
   },
   {
@@ -3780,7 +3780,7 @@
     "geschlecht":1,
     "partei":"MLPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":116
   },
   {
@@ -3813,7 +3813,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":253
   },
   {
@@ -3835,7 +3835,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":145
   },
   {
@@ -3879,7 +3879,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":114
   },
   {
@@ -3890,7 +3890,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":168
   },
   {
@@ -3923,7 +3923,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":75
   },
   {
@@ -3978,7 +3978,7 @@
     "geschlecht":2,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":67
   },
   {
@@ -4033,7 +4033,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":236
   },
   {
@@ -4055,7 +4055,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":276
   },
   {
@@ -4132,7 +4132,7 @@
     "geschlecht":2,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":56
   },
   {
@@ -4154,7 +4154,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":78
   },
   {
@@ -4176,7 +4176,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":282
   },
   {
@@ -4198,7 +4198,7 @@
     "geschlecht":1,
     "partei":"Bündnis 21/RRP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":80
   },
   {
@@ -4220,7 +4220,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":65
   },
   {
@@ -4286,7 +4286,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":37
   },
   {
@@ -4308,7 +4308,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":106
   },
   {
@@ -4319,7 +4319,7 @@
     "geschlecht":1,
     "partei":"BüSo",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":155
   },
   {
@@ -4341,7 +4341,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":56
   },
   {
@@ -4374,7 +4374,7 @@
     "geschlecht":2,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":217
   },
   {
@@ -4396,7 +4396,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":174
   },
   {
@@ -4429,7 +4429,7 @@
     "geschlecht":2,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":103
   },
   {
@@ -4462,7 +4462,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":278
   },
   {
@@ -4484,7 +4484,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":202
   },
   {
@@ -4517,7 +4517,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":105
   },
   {
@@ -4539,7 +4539,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":167
   },
   {
@@ -4550,7 +4550,7 @@
     "geschlecht":2,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":36
   },
   {
@@ -4682,7 +4682,7 @@
     "geschlecht":1,
     "partei":"CSU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":217
   },
   {
@@ -4704,7 +4704,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":268
   },
   {
@@ -4748,7 +4748,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":151
   },
   {
@@ -4792,7 +4792,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":294
   },
   {
@@ -4847,7 +4847,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":29
   },
   {
@@ -4880,7 +4880,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":170
   },
   {
@@ -4891,7 +4891,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":99
   },
   {
@@ -4902,7 +4902,7 @@
     "geschlecht":2,
     "partei":"MLPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":125
   },
   {
@@ -4946,7 +4946,7 @@
     "geschlecht":1,
     "partei":"PARTEI DER VERNUNFT",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":194
   },
   {
@@ -4957,7 +4957,7 @@
     "geschlecht":2,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":48
   },
   {
@@ -5012,7 +5012,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":109
   },
   {
@@ -5034,7 +5034,7 @@
     "geschlecht":2,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":126
   },
   {
@@ -5045,7 +5045,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":187
   },
   {
@@ -5067,7 +5067,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":3
   },
   {
@@ -5133,7 +5133,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":136
   },
   {
@@ -5177,7 +5177,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":267
   },
   {
@@ -5243,7 +5243,7 @@
     "geschlecht":2,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":198
   },
   {
@@ -5452,7 +5452,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":67
   },
   {
@@ -5518,7 +5518,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":107
   },
   {
@@ -5529,7 +5529,7 @@
     "geschlecht":1,
     "partei":"ÖDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":219
   },
   {
@@ -5562,7 +5562,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":110
   },
   {
@@ -5584,7 +5584,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":41
   },
   {
@@ -5628,7 +5628,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":119
   },
   {
@@ -5639,7 +5639,7 @@
     "geschlecht":2,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":134
   },
   {
@@ -5804,7 +5804,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":126
   },
   {
@@ -5815,7 +5815,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":102
   },
   {
@@ -5826,7 +5826,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":24
   },
   {
@@ -5925,7 +5925,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":121
   },
   {
@@ -5958,7 +5958,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":186
   },
   {
@@ -6002,7 +6002,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":132
   },
   {
@@ -6046,7 +6046,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":59
   },
   {
@@ -6057,7 +6057,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":249
   },
   {
@@ -6123,7 +6123,7 @@
     "geschlecht":2,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":21
   },
   {
@@ -6134,7 +6134,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":286
   },
   {
@@ -6145,7 +6145,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":289
   },
   {
@@ -6189,7 +6189,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":246
   },
   {
@@ -6222,7 +6222,7 @@
     "geschlecht":2,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":51
   },
   {
@@ -6288,7 +6288,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":247
   },
   {
@@ -6310,7 +6310,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":109
   },
   {
@@ -6321,7 +6321,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":79
   },
   {
@@ -6376,7 +6376,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":144
   },
   {
@@ -6519,7 +6519,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":153
   },
   {
@@ -6552,7 +6552,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":83
   },
   {
@@ -6629,7 +6629,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":203
   },
   {
@@ -6651,7 +6651,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":30
   },
   {
@@ -6706,7 +6706,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":98
   },
   {
@@ -6739,7 +6739,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":272
   },
   {
@@ -6750,7 +6750,7 @@
     "geschlecht":2,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":148
   },
   {
@@ -6860,7 +6860,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":273
   },
   {
@@ -6882,7 +6882,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":178
   },
   {
@@ -6904,7 +6904,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":59
   },
   {
@@ -6937,7 +6937,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":267
   },
   {
@@ -6948,7 +6948,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":187
   },
   {
@@ -7025,7 +7025,7 @@
     "geschlecht":2,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":39
   },
   {
@@ -7113,7 +7113,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":133
   },
   {
@@ -7135,7 +7135,7 @@
     "geschlecht":2,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":276
   },
   {
@@ -7146,7 +7146,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":83
   },
   {
@@ -7212,7 +7212,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":236
   },
   {
@@ -7234,7 +7234,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":117
   },
   {
@@ -7245,7 +7245,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":6
   },
   {
@@ -7278,7 +7278,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":32
   },
   {
@@ -7289,7 +7289,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":192
   },
   {
@@ -7300,7 +7300,7 @@
     "geschlecht":1,
     "partei":"ÖDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":289
   },
   {
@@ -7388,7 +7388,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":235
   },
   {
@@ -7399,7 +7399,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":77
   },
   {
@@ -7443,7 +7443,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":45
   },
   {
@@ -7509,7 +7509,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":47
   },
   {
@@ -7608,7 +7608,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":289
   },
   {
@@ -7619,7 +7619,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":288
   },
   {
@@ -7696,7 +7696,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":28
   },
   {
@@ -7707,7 +7707,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":77
   },
   {
@@ -7751,7 +7751,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":165
   },
   {
@@ -7762,7 +7762,7 @@
     "geschlecht":1,
     "partei":"ÖDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":265
   },
   {
@@ -7784,7 +7784,7 @@
     "geschlecht":2,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":251
   },
   {
@@ -7850,7 +7850,7 @@
     "geschlecht":1,
     "partei":"MLPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":119
   },
   {
@@ -7894,7 +7894,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":165
   },
   {
@@ -7905,7 +7905,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":269
   },
   {
@@ -7971,7 +7971,7 @@
     "geschlecht":2,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":117
   },
   {
@@ -8158,7 +8158,7 @@
     "geschlecht":1,
     "partei":"CSU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":253
   },
   {
@@ -8202,7 +8202,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":44
   },
   {
@@ -8290,7 +8290,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":85
   },
   {
@@ -8312,7 +8312,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":23
   },
   {
@@ -8400,7 +8400,7 @@
     "geschlecht":2,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":259
   },
   {
@@ -8433,7 +8433,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":76
   },
   {
@@ -8444,7 +8444,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":33
   },
   {
@@ -8455,7 +8455,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":45
   },
   {
@@ -8521,7 +8521,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":44
   },
   {
@@ -8785,7 +8785,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":52
   },
   {
@@ -8807,7 +8807,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":179
   },
   {
@@ -8884,7 +8884,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":173
   },
   {
@@ -8917,7 +8917,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":56
   },
   {
@@ -8983,7 +8983,7 @@
     "geschlecht":2,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":59
   },
   {
@@ -9016,7 +9016,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":276
   },
   {
@@ -9082,7 +9082,7 @@
     "geschlecht":2,
     "partei":"DKP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":75
   },
   {
@@ -9093,7 +9093,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":242
   },
   {
@@ -9170,7 +9170,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":211
   },
   {
@@ -9236,7 +9236,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":176
   },
   {
@@ -9258,7 +9258,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":61
   },
   {
@@ -9280,7 +9280,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":66
   },
   {
@@ -9335,7 +9335,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":148
   },
   {
@@ -9390,7 +9390,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":12
   },
   {
@@ -9423,7 +9423,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":263
   },
   {
@@ -9434,7 +9434,7 @@
     "geschlecht":1,
     "partei":"Tierschutzpartei",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":69
   },
   {
@@ -9445,7 +9445,7 @@
     "geschlecht":2,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":177
   },
   {
@@ -9742,7 +9742,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":254
   },
   {
@@ -9786,7 +9786,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":19
   },
   {
@@ -9885,7 +9885,7 @@
     "geschlecht":1,
     "partei":"PBC",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":38
   },
   {
@@ -9896,7 +9896,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":272
   },
   {
@@ -9951,7 +9951,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":93
   },
   {
@@ -10039,7 +10039,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":257
   },
   {
@@ -10050,7 +10050,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":285
   },
   {
@@ -10138,7 +10138,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":19
   },
   {
@@ -10248,7 +10248,7 @@
     "geschlecht":2,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":59
   },
   {
@@ -10292,7 +10292,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":37
   },
   {
@@ -10303,7 +10303,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":41
   },
   {
@@ -10325,7 +10325,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":10
   },
   {
@@ -10369,7 +10369,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":209
   },
   {
@@ -10457,7 +10457,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":138
   },
   {
@@ -10545,7 +10545,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":40
   },
   {
@@ -10578,7 +10578,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":212
   },
   {
@@ -10600,7 +10600,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":286
   },
   {
@@ -10655,7 +10655,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":135
   },
   {
@@ -10688,7 +10688,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":109
   },
   {
@@ -10721,7 +10721,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":78
   },
   {
@@ -10754,7 +10754,7 @@
     "geschlecht":2,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":122
   },
   {
@@ -10787,7 +10787,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":111
   },
   {
@@ -10798,7 +10798,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":50
   },
   {
@@ -10831,7 +10831,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":80
   },
   {
@@ -10853,7 +10853,7 @@
     "geschlecht":2,
     "partei":"Die PARTEI",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":85
   },
   {
@@ -10897,7 +10897,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":90
   },
   {
@@ -10908,7 +10908,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":262
   },
   {
@@ -10941,7 +10941,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":250
   },
   {
@@ -10952,7 +10952,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":280
   },
   {
@@ -10996,7 +10996,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":118
   },
   {
@@ -11007,7 +11007,7 @@
     "geschlecht":2,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":9
   },
   {
@@ -11029,7 +11029,7 @@
     "geschlecht":1,
     "partei":"MLPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":139
   },
   {
@@ -11062,7 +11062,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":110
   },
   {
@@ -11139,7 +11139,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":248
   },
   {
@@ -11194,7 +11194,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":280
   },
   {
@@ -11205,7 +11205,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":282
   },
   {
@@ -11249,7 +11249,7 @@
     "geschlecht":1,
     "partei":"MLPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":138
   },
   {
@@ -11271,7 +11271,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":207
   },
   {
@@ -11282,7 +11282,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":18
   },
   {
@@ -11315,7 +11315,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":258
   },
   {
@@ -11458,7 +11458,7 @@
     "geschlecht":1,
     "partei":"ÖDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":268
   },
   {
@@ -11513,7 +11513,7 @@
     "geschlecht":1,
     "partei":"FAMILIE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":209
   },
   {
@@ -11524,7 +11524,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":94
   },
   {
@@ -11579,7 +11579,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":33
   },
   {
@@ -11612,7 +11612,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":151
   },
   {
@@ -11667,7 +11667,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":272
   },
   {
@@ -11689,7 +11689,7 @@
     "geschlecht":1,
     "partei":"CSU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":220
   },
   {
@@ -11700,7 +11700,7 @@
     "geschlecht":2,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":105
   },
   {
@@ -11810,7 +11810,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":260
   },
   {
@@ -11865,7 +11865,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":36
   },
   {
@@ -11920,7 +11920,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":165
   },
   {
@@ -11975,7 +11975,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":276
   },
   {
@@ -12041,7 +12041,7 @@
     "geschlecht":1,
     "partei":"PBC",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":39
   },
   {
@@ -12085,7 +12085,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":266
   },
   {
@@ -12107,7 +12107,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":118
   },
   {
@@ -12173,7 +12173,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":223
   },
   {
@@ -12228,7 +12228,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":63
   },
   {
@@ -12239,7 +12239,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":85
   },
   {
@@ -12272,7 +12272,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":89
   },
   {
@@ -12338,7 +12338,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":121
   },
   {
@@ -12459,7 +12459,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":91
   },
   {
@@ -12470,7 +12470,7 @@
     "geschlecht":1,
     "partei":"BP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":250
   },
   {
@@ -12547,7 +12547,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":293
   },
   {
@@ -12558,7 +12558,7 @@
     "geschlecht":1,
     "partei":"CSU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":241
   },
   {
@@ -12690,7 +12690,7 @@
     "geschlecht":1,
     "partei":"Die PARTEI",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":162
   },
   {
@@ -12822,7 +12822,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":79
   },
   {
@@ -12855,7 +12855,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":120
   },
   {
@@ -12899,7 +12899,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":210
   },
   {
@@ -12965,7 +12965,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":245
   },
   {
@@ -12976,7 +12976,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":282
   },
   {
@@ -12987,7 +12987,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":291
   },
   {
@@ -13020,7 +13020,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":106
   },
   {
@@ -13152,7 +13152,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":80
   },
   {
@@ -13163,7 +13163,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":280
   },
   {
@@ -13251,7 +13251,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":134
   },
   {
@@ -13295,7 +13295,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":71
   },
   {
@@ -13339,7 +13339,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":261
   },
   {
@@ -13350,7 +13350,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":241
   },
   {
@@ -13405,7 +13405,7 @@
     "geschlecht":2,
     "partei":"BüSo",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":158
   },
   {
@@ -13427,7 +13427,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":5
   },
   {
@@ -13471,7 +13471,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":269
   },
   {
@@ -13482,7 +13482,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":38
   },
   {
@@ -13603,7 +13603,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":283
   },
   {
@@ -13614,7 +13614,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":33
   },
   {
@@ -13636,7 +13636,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":47
   },
   {
@@ -13724,7 +13724,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":135
   },
   {
@@ -13746,7 +13746,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":278
   },
   {
@@ -13779,7 +13779,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":29
   },
   {
@@ -13834,7 +13834,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":136
   },
   {
@@ -13944,7 +13944,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":164
   },
   {
@@ -13988,7 +13988,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":233
   },
   {
@@ -14032,7 +14032,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":29
   },
   {
@@ -14076,7 +14076,7 @@
     "geschlecht":2,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":98
   },
   {
@@ -14153,7 +14153,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":147
   },
   {
@@ -14186,7 +14186,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":238
   },
   {
@@ -14241,7 +14241,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":149
   },
   {
@@ -14274,7 +14274,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":288
   },
   {
@@ -14340,7 +14340,7 @@
     "geschlecht":1,
     "partei":"Die PARTEI",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":244
   },
   {
@@ -14373,7 +14373,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":63
   },
   {
@@ -14538,7 +14538,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":137
   },
   {
@@ -14571,7 +14571,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":142
   },
   {
@@ -14582,7 +14582,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":277
   },
   {
@@ -14615,7 +14615,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":50
   },
   {
@@ -14659,7 +14659,7 @@
     "geschlecht":2,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":31
   },
   {
@@ -14670,7 +14670,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":193
   },
   {
@@ -14802,7 +14802,7 @@
     "geschlecht":1,
     "partei":"Die PARTEI",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":153
   },
   {
@@ -14813,7 +14813,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":103
   },
   {
@@ -14824,7 +14824,7 @@
     "geschlecht":2,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":47
   },
   {
@@ -14835,7 +14835,7 @@
     "geschlecht":2,
     "partei":"BP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":242
   },
   {
@@ -14912,7 +14912,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":49
   },
   {
@@ -14978,7 +14978,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":230
   },
   {
@@ -15033,7 +15033,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":281
   },
   {
@@ -15044,7 +15044,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":170
   },
   {
@@ -15220,7 +15220,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":95
   },
   {
@@ -15286,7 +15286,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":292
   },
   {
@@ -15297,7 +15297,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":149
   },
   {
@@ -15352,7 +15352,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":183
   },
   {
@@ -15440,7 +15440,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":95
   },
   {
@@ -15484,7 +15484,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":36
   },
   {
@@ -15506,7 +15506,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":10
   },
   {
@@ -15517,7 +15517,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":38
   },
   {
@@ -15638,7 +15638,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":162
   },
   {
@@ -15671,7 +15671,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":221
   },
   {
@@ -15682,7 +15682,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":251
   },
   {
@@ -15704,7 +15704,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":289
   },
   {
@@ -15715,7 +15715,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":105
   },
   {
@@ -15759,7 +15759,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":241
   },
   {
@@ -15770,7 +15770,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":126
   },
   {
@@ -15913,7 +15913,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":258
   },
   {
@@ -15924,7 +15924,7 @@
     "geschlecht":2,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":82
   },
   {
@@ -16001,7 +16001,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":294
   },
   {
@@ -16045,7 +16045,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":83
   },
   {
@@ -16067,7 +16067,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":262
   },
   {
@@ -16111,7 +16111,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":135
   },
   {
@@ -16133,7 +16133,7 @@
     "geschlecht":1,
     "partei":"MLPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":101
   },
   {
@@ -16177,7 +16177,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":289
   },
   {
@@ -16210,7 +16210,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":61
   },
   {
@@ -16353,7 +16353,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":95
   },
   {
@@ -16386,7 +16386,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":231
   },
   {
@@ -16441,7 +16441,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":110
   },
   {
@@ -16452,7 +16452,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":99
   },
   {
@@ -16518,7 +16518,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":110
   },
   {
@@ -16562,7 +16562,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":167
   },
   {
@@ -16617,7 +16617,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":180
   },
   {
@@ -16628,7 +16628,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":130
   },
   {
@@ -16804,7 +16804,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":166
   },
   {
@@ -16881,7 +16881,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":57
   },
   {
@@ -16892,7 +16892,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":34
   },
   {
@@ -16903,7 +16903,7 @@
     "geschlecht":2,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":122
   },
   {
@@ -16925,7 +16925,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":83
   },
   {
@@ -16969,7 +16969,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":285
   },
   {
@@ -17013,7 +17013,7 @@
     "geschlecht":2,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":287
   },
   {
@@ -17046,7 +17046,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":149
   },
   {
@@ -17156,7 +17156,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":5
   },
   {
@@ -17189,7 +17189,7 @@
     "geschlecht":2,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":42
   },
   {
@@ -17244,7 +17244,7 @@
     "geschlecht":1,
     "partei":"CSU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":234
   },
   {
@@ -17299,7 +17299,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":32
   },
   {
@@ -17321,7 +17321,7 @@
     "geschlecht":1,
     "partei":"DKP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":270
   },
   {
@@ -17343,7 +17343,7 @@
     "geschlecht":2,
     "partei":"REP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":272
   },
   {
@@ -17354,7 +17354,7 @@
     "geschlecht":1,
     "partei":"REP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":182
   },
   {
@@ -17376,7 +17376,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":51
   },
   {
@@ -17387,7 +17387,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":187
   },
   {
@@ -17530,7 +17530,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":171
   },
   {
@@ -17552,7 +17552,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":61
   },
   {
@@ -17574,7 +17574,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":120
   },
   {
@@ -17673,7 +17673,7 @@
     "geschlecht":2,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":93
   },
   {
@@ -17695,7 +17695,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":150
   },
   {
@@ -17706,7 +17706,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":184
   },
   {
@@ -17739,7 +17739,7 @@
     "geschlecht":1,
     "partei":"ÖDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":194
   },
   {
@@ -17783,7 +17783,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":235
   },
   {
@@ -17915,7 +17915,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":176
   },
   {
@@ -17981,7 +17981,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":229
   },
   {
@@ -18014,7 +18014,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":78
   },
   {
@@ -18036,7 +18036,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":99
   },
   {
@@ -18058,7 +18058,7 @@
     "geschlecht":1,
     "partei":"CSU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":215
   },
   {
@@ -18102,7 +18102,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":136
   },
   {
@@ -18113,7 +18113,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":86
   },
   {
@@ -18135,7 +18135,7 @@
     "geschlecht":1,
     "partei":"BP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":226
   },
   {
@@ -18146,7 +18146,7 @@
     "geschlecht":2,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":136
   },
   {
@@ -18201,7 +18201,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":134
   },
   {
@@ -18223,7 +18223,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":285
   },
   {
@@ -18245,7 +18245,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":177
   },
   {
@@ -18355,7 +18355,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":202
   },
   {
@@ -18476,7 +18476,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":73
   },
   {
@@ -18487,7 +18487,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":255
   },
   {
@@ -18498,7 +18498,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":18
   },
   {
@@ -18531,7 +18531,7 @@
     "geschlecht":1,
     "partei":"ÖDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":224
   },
   {
@@ -18619,7 +18619,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":1
   },
   {
@@ -18663,7 +18663,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":246
   },
   {
@@ -18674,7 +18674,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":8
   },
   {
@@ -18729,7 +18729,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":65
   },
   {
@@ -18751,7 +18751,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":9
   },
   {
@@ -18784,7 +18784,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":287
   },
   {
@@ -18839,7 +18839,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":74
   },
   {
@@ -18861,7 +18861,7 @@
     "geschlecht":2,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":88
   },
   {
@@ -18883,7 +18883,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":59
   },
   {
@@ -18971,7 +18971,7 @@
     "geschlecht":2,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":92
   },
   {
@@ -19037,7 +19037,7 @@
     "geschlecht":2,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":114
   },
   {
@@ -19048,7 +19048,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":64
   },
   {
@@ -19092,7 +19092,7 @@
     "geschlecht":1,
     "partei":"SPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":18
   },
   {
@@ -19202,7 +19202,7 @@
     "geschlecht":1,
     "partei":"CSU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":227
   },
   {
@@ -19213,7 +19213,7 @@
     "geschlecht":2,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":3
   },
   {
@@ -19389,7 +19389,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":195
   },
   {
@@ -19411,7 +19411,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":139
   },
   {
@@ -19444,7 +19444,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":294
   },
   {
@@ -19466,7 +19466,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":215
   },
   {
@@ -19554,7 +19554,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":18
   },
   {
@@ -19576,7 +19576,7 @@
     "geschlecht":1,
     "partei":"CSU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":232
   },
   {
@@ -19609,7 +19609,7 @@
     "geschlecht":1,
     "partei":"BüSo",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":182
   },
   {
@@ -19642,7 +19642,7 @@
     "geschlecht":2,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":161
   },
   {
@@ -19675,7 +19675,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":234
   },
   {
@@ -19741,7 +19741,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":255
   },
   {
@@ -19895,7 +19895,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":286
   },
   {
@@ -19928,7 +19928,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":170
   },
   {
@@ -19983,7 +19983,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":56
   },
   {
@@ -19994,7 +19994,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":145
   },
   {
@@ -20005,7 +20005,7 @@
     "geschlecht":1,
     "partei":"ÖDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":283
   },
   {
@@ -20016,7 +20016,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":282
   },
   {
@@ -20038,7 +20038,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":178
   },
   {
@@ -20082,7 +20082,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":268
   },
   {
@@ -20115,7 +20115,7 @@
     "geschlecht":2,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":151
   },
   {
@@ -20170,7 +20170,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":281
   },
   {
@@ -20192,7 +20192,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":126
   },
   {
@@ -20280,7 +20280,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":123
   },
   {
@@ -20357,7 +20357,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":19
   },
   {
@@ -20401,7 +20401,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":10
   },
   {
@@ -20423,7 +20423,7 @@
     "geschlecht":2,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":215
   },
   {
@@ -20434,7 +20434,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":270
   },
   {
@@ -20456,7 +20456,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":160
   },
   {
@@ -20500,7 +20500,7 @@
     "geschlecht":1,
     "partei":"Die PARTEI",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":274
   },
   {
@@ -20566,7 +20566,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":285
   },
   {
@@ -20676,7 +20676,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":40
   },
   {
@@ -20698,7 +20698,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":281
   },
   {
@@ -20775,7 +20775,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":70
   },
   {
@@ -20786,7 +20786,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":71
   },
   {
@@ -20808,7 +20808,7 @@
     "geschlecht":1,
     "partei":"DKP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":65
   },
   {
@@ -20830,7 +20830,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":30
   },
   {
@@ -20852,7 +20852,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":159
   },
   {
@@ -20874,7 +20874,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":25
   },
   {
@@ -20907,7 +20907,7 @@
     "geschlecht":1,
     "partei":"MLPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":41
   },
   {
@@ -20962,7 +20962,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":116
   },
   {
@@ -21006,7 +21006,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":297
   },
   {
@@ -21017,7 +21017,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":114
   },
   {
@@ -21039,7 +21039,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":131
   },
   {
@@ -21105,7 +21105,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":150
   },
   {
@@ -21116,7 +21116,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":202
   },
   {
@@ -21226,7 +21226,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":173
   },
   {
@@ -21237,7 +21237,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":24
   },
   {
@@ -21292,7 +21292,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":82
   },
   {
@@ -21303,7 +21303,7 @@
     "geschlecht":1,
     "partei":"SPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":131
   },
   {
@@ -21325,7 +21325,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":73
   },
   {
@@ -21336,7 +21336,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":257
   },
   {
@@ -21347,7 +21347,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":179
   },
   {
@@ -21358,7 +21358,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":172
   },
   {
@@ -21402,7 +21402,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":53
   },
   {
@@ -21413,7 +21413,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":207
   },
   {
@@ -21435,7 +21435,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":99
   },
   {
@@ -21512,7 +21512,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":74
   },
   {
@@ -21556,7 +21556,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":153
   },
   {
@@ -21644,7 +21644,7 @@
     "geschlecht":2,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":296
   },
   {
@@ -21666,7 +21666,7 @@
     "geschlecht":1,
     "partei":"REP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":261
   },
   {
@@ -21688,7 +21688,7 @@
     "geschlecht":1,
     "partei":"REP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":212
   },
   {
@@ -21710,7 +21710,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":136
   },
   {
@@ -21721,7 +21721,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":270
   },
   {
@@ -21765,7 +21765,7 @@
     "geschlecht":2,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":9
   },
   {
@@ -21831,7 +21831,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":115
   },
   {
@@ -21941,7 +21941,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":294
   },
   {
@@ -21963,7 +21963,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":198
   },
   {
@@ -22018,7 +22018,7 @@
     "geschlecht":2,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":96
   },
   {
@@ -22183,7 +22183,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":22
   },
   {
@@ -22293,7 +22293,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":196
   },
   {
@@ -22337,7 +22337,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":104
   },
   {
@@ -22348,7 +22348,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":13
   },
   {
@@ -22414,7 +22414,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":244
   },
   {
@@ -22447,7 +22447,7 @@
     "geschlecht":1,
     "partei":"Bündnis 21/RRP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":28
   },
   {
@@ -22469,7 +22469,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":273
   },
   {
@@ -22535,7 +22535,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":261
   },
   {
@@ -22546,7 +22546,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":203
   },
   {
@@ -22590,7 +22590,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":72
   },
   {
@@ -22700,7 +22700,7 @@
     "geschlecht":1,
     "partei":"Die PARTEI",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":64
   },
   {
@@ -22733,7 +22733,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":56
   },
   {
@@ -22744,7 +22744,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":213
   },
   {
@@ -22832,7 +22832,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":32
   },
   {
@@ -22854,7 +22854,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":235
   },
   {
@@ -22876,7 +22876,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":157
   },
   {
@@ -22898,7 +22898,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":111
   },
   {
@@ -22909,7 +22909,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":279
   },
   {
@@ -22920,7 +22920,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":297
   },
   {
@@ -22953,7 +22953,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":159
   },
   {
@@ -22997,7 +22997,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":52
   },
   {
@@ -23107,7 +23107,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":201
   },
   {
@@ -23195,7 +23195,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":30
   },
   {
@@ -23283,7 +23283,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":266
   },
   {
@@ -23316,7 +23316,7 @@
     "geschlecht":2,
     "partei":"Die PARTEI",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":77
   },
   {
@@ -23371,7 +23371,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":253
   },
   {
@@ -23426,7 +23426,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":98
   },
   {
@@ -23459,7 +23459,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":18
   },
   {
@@ -23492,7 +23492,7 @@
     "geschlecht":2,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":70
   },
   {
@@ -23547,7 +23547,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":88
   },
   {
@@ -23624,7 +23624,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":222
   },
   {
@@ -23701,7 +23701,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":231
   },
   {
@@ -23789,7 +23789,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":175
   },
   {
@@ -24020,7 +24020,7 @@
     "geschlecht":1,
     "partei":"REP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":249
   },
   {
@@ -24097,7 +24097,7 @@
     "geschlecht":1,
     "partei":"CSU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":254
   },
   {
@@ -24141,7 +24141,7 @@
     "geschlecht":2,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":298
   },
   {
@@ -24174,7 +24174,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":180
   },
   {
@@ -24185,7 +24185,7 @@
     "geschlecht":1,
     "partei":"SPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":33
   },
   {
@@ -24306,7 +24306,7 @@
     "geschlecht":2,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":227
   },
   {
@@ -24339,7 +24339,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":213
   },
   {
@@ -24372,7 +24372,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":75
   },
   {
@@ -24383,7 +24383,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":87
   },
   {
@@ -24405,7 +24405,7 @@
     "geschlecht":2,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":75
   },
   {
@@ -24416,7 +24416,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":82
   },
   {
@@ -24460,7 +24460,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":42
   },
   {
@@ -24515,7 +24515,7 @@
     "geschlecht":1,
     "partei":"DIE VIOLETTEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":213
   },
   {
@@ -24537,7 +24537,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":190
   },
   {
@@ -24691,7 +24691,7 @@
     "geschlecht":2,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":25
   },
   {
@@ -24702,7 +24702,7 @@
     "geschlecht":2,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":89
   },
   {
@@ -24757,7 +24757,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":111
   },
   {
@@ -24922,7 +24922,7 @@
     "geschlecht":2,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":204
   },
   {
@@ -25109,7 +25109,7 @@
     "geschlecht":1,
     "partei":"SPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":299
   },
   {
@@ -25153,7 +25153,7 @@
     "geschlecht":2,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":1
   },
   {
@@ -25164,7 +25164,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":77
   },
   {
@@ -25186,7 +25186,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":225
   },
   {
@@ -25285,7 +25285,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":137
   },
   {
@@ -25351,7 +25351,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":115
   },
   {
@@ -25362,7 +25362,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":265
   },
   {
@@ -25395,7 +25395,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":159
   },
   {
@@ -25494,7 +25494,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":139
   },
   {
@@ -25505,7 +25505,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":286
   },
   {
@@ -25527,7 +25527,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":174
   },
   {
@@ -25604,7 +25604,7 @@
     "geschlecht":2,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":74
   },
   {
@@ -25615,7 +25615,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":86
   },
   {
@@ -25670,7 +25670,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":68
   },
   {
@@ -25692,7 +25692,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":27
   },
   {
@@ -25703,7 +25703,7 @@
     "geschlecht":2,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":169
   },
   {
@@ -25802,7 +25802,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":35
   },
   {
@@ -25890,7 +25890,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":32
   },
   {
@@ -25901,7 +25901,7 @@
     "geschlecht":1,
     "partei":"Bündnis 21/RRP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":29
   },
   {
@@ -25923,7 +25923,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":25
   },
   {
@@ -25945,7 +25945,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":219
   },
   {
@@ -26000,7 +26000,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":77
   },
   {
@@ -26121,7 +26121,7 @@
     "geschlecht":2,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":197
   },
   {
@@ -26132,7 +26132,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":79
   },
   {
@@ -26165,7 +26165,7 @@
     "geschlecht":1,
     "partei":"PARTEI DER VERNUNFT",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":298
   },
   {
@@ -26429,7 +26429,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":277
   },
   {
@@ -26616,7 +26616,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":77
   },
   {
@@ -26715,7 +26715,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":76
   },
   {
@@ -26726,7 +26726,7 @@
     "geschlecht":2,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":137
   },
   {
@@ -26781,7 +26781,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":94
   },
   {
@@ -26803,7 +26803,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":273
   },
   {
@@ -26836,7 +26836,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":289
   },
   {
@@ -26913,7 +26913,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":6
   },
   {
@@ -26924,7 +26924,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":4
   },
   {
@@ -27001,7 +27001,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":280
   },
   {
@@ -27045,7 +27045,7 @@
     "geschlecht":2,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":97
   },
   {
@@ -27111,7 +27111,7 @@
     "geschlecht":1,
     "partei":"CSU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":213
   },
   {
@@ -27177,7 +27177,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":257
   },
   {
@@ -27364,7 +27364,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":196
   },
   {
@@ -27397,7 +27397,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":23
   },
   {
@@ -27430,7 +27430,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":2
   },
   {
@@ -27463,7 +27463,7 @@
     "geschlecht":1,
     "partei":"Die PARTEI",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":275
   },
   {
@@ -27507,7 +27507,7 @@
     "geschlecht":2,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":49
   },
   {
@@ -27562,7 +27562,7 @@
     "geschlecht":1,
     "partei":"ÖDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":287
   },
   {
@@ -27617,7 +27617,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":234
   },
   {
@@ -27650,7 +27650,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":221
   },
   {
@@ -27672,7 +27672,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":156
   },
   {
@@ -27705,7 +27705,7 @@
     "geschlecht":1,
     "partei":"Die PARTEI",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":96
   },
   {
@@ -27727,7 +27727,7 @@
     "geschlecht":2,
     "partei":"FAMILIE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":210
   },
   {
@@ -27760,7 +27760,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":199
   },
   {
@@ -27848,7 +27848,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":266
   },
   {
@@ -27903,7 +27903,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":142
   },
   {
@@ -28002,7 +28002,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":49
   },
   {
@@ -28090,7 +28090,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":128
   },
   {
@@ -28134,7 +28134,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":120
   },
   {
@@ -28167,7 +28167,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":223
   },
   {
@@ -28189,7 +28189,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":75
   },
   {
@@ -28343,7 +28343,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":75
   },
   {
@@ -28508,7 +28508,7 @@
     "geschlecht":2,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":199
   },
   {
@@ -28563,7 +28563,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":84
   },
   {
@@ -28585,7 +28585,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":295
   },
   {
@@ -28783,7 +28783,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":62
   },
   {
@@ -28794,7 +28794,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":233
   },
   {
@@ -28860,7 +28860,7 @@
     "geschlecht":2,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":190
   },
   {
@@ -28882,7 +28882,7 @@
     "geschlecht":2,
     "partei":"DKP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":58
   },
   {
@@ -28937,7 +28937,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":158
   },
   {
@@ -28948,7 +28948,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":61
   },
   {
@@ -29047,7 +29047,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":205
   },
   {
@@ -29080,7 +29080,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":240
   },
   {
@@ -29190,7 +29190,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":270
   },
   {
@@ -29212,7 +29212,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":16
   },
   {
@@ -29256,7 +29256,7 @@
     "geschlecht":1,
     "partei":"MLPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":106
   },
   {
@@ -29278,7 +29278,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":143
   },
   {
@@ -29443,7 +29443,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":251
   },
   {
@@ -29476,7 +29476,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":153
   },
   {
@@ -29509,7 +29509,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":44
   },
   {
@@ -29531,7 +29531,7 @@
     "geschlecht":1,
     "partei":"DKP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":62
   },
   {
@@ -29564,7 +29564,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":43
   },
   {
@@ -29586,7 +29586,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":89
   },
   {
@@ -29597,7 +29597,7 @@
     "geschlecht":2,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":156
   },
   {
@@ -29663,7 +29663,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":64
   },
   {
@@ -29696,7 +29696,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":58
   },
   {
@@ -29773,7 +29773,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":28
   },
   {
@@ -29784,7 +29784,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":176
   },
   {
@@ -29795,7 +29795,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":74
   },
   {
@@ -29806,7 +29806,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":148
   },
   {
@@ -29817,7 +29817,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":33
   },
   {
@@ -29938,7 +29938,7 @@
     "geschlecht":1,
     "partei":"Die PARTEI",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":204
   },
   {
@@ -29960,7 +29960,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":84
   },
   {
@@ -30037,7 +30037,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":81
   },
   {
@@ -30092,7 +30092,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":156
   },
   {
@@ -30191,7 +30191,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":43
   },
   {
@@ -30246,7 +30246,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":24
   },
   {
@@ -30323,7 +30323,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":137
   },
   {
@@ -30378,7 +30378,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":133
   },
   {
@@ -30433,7 +30433,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":34
   },
   {
@@ -30488,7 +30488,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":121
   },
   {
@@ -30499,7 +30499,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":22
   },
   {
@@ -30510,7 +30510,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":52
   },
   {
@@ -30521,7 +30521,7 @@
     "geschlecht":2,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":150
   },
   {
@@ -30554,7 +30554,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":35
   },
   {
@@ -30620,7 +30620,7 @@
     "geschlecht":2,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":91
   },
   {
@@ -30631,7 +30631,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":150
   },
   {
@@ -30653,7 +30653,7 @@
     "geschlecht":1,
     "partei":"CSU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":228
   },
   {
@@ -30686,7 +30686,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":256
   },
   {
@@ -30719,7 +30719,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":276
   },
   {
@@ -30785,7 +30785,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":85
   },
   {
@@ -30840,7 +30840,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":46
   },
   {
@@ -30851,7 +30851,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":182
   },
   {
@@ -30862,7 +30862,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":104
   },
   {
@@ -31027,7 +31027,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":227
   },
   {
@@ -31049,7 +31049,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":74
   },
   {
@@ -31082,7 +31082,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":183
   },
   {
@@ -31170,7 +31170,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":267
   },
   {
@@ -31236,7 +31236,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":78
   },
   {
@@ -31302,7 +31302,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":36
   },
   {
@@ -31324,7 +31324,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":195
   },
   {
@@ -31379,7 +31379,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":154
   },
   {
@@ -31445,7 +31445,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":87
   },
   {
@@ -31456,7 +31456,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":58
   },
   {
@@ -31533,7 +31533,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":197
   },
   {
@@ -31544,7 +31544,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":163
   },
   {
@@ -31577,7 +31577,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":112
   },
   {
@@ -31687,7 +31687,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":191
   },
   {
@@ -31698,7 +31698,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":264
   },
   {
@@ -31720,7 +31720,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":245
   },
   {
@@ -31753,7 +31753,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":188
   },
   {
@@ -31764,7 +31764,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":188
   },
   {
@@ -31808,7 +31808,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":244
   },
   {
@@ -31885,7 +31885,7 @@
     "geschlecht":2,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":143
   },
   {
@@ -31962,7 +31962,7 @@
     "geschlecht":2,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":111
   },
   {
@@ -32017,7 +32017,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":49
   },
   {
@@ -32094,7 +32094,7 @@
     "geschlecht":2,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":299
   },
   {
@@ -32116,7 +32116,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":279
   },
   {
@@ -32127,7 +32127,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":112
   },
   {
@@ -32138,7 +32138,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":99
   },
   {
@@ -32182,7 +32182,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":128
   },
   {
@@ -32270,7 +32270,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":226
   },
   {
@@ -32281,7 +32281,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":56
   },
   {
@@ -32303,7 +32303,7 @@
     "geschlecht":2,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":57
   },
   {
@@ -32446,7 +32446,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":28
   },
   {
@@ -32512,7 +32512,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":148
   },
   {
@@ -32545,7 +32545,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":141
   },
   {
@@ -32589,7 +32589,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":49
   },
   {
@@ -32622,7 +32622,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":123
   },
   {
@@ -32655,7 +32655,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":44
   },
   {
@@ -32798,7 +32798,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":80
   },
   {
@@ -32809,7 +32809,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":201
   },
   {
@@ -32820,7 +32820,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":73
   },
   {
@@ -32842,7 +32842,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":30
   },
   {
@@ -32952,7 +32952,7 @@
     "geschlecht":2,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":129
   },
   {
@@ -32963,7 +32963,7 @@
     "geschlecht":2,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":147
   },
   {
@@ -33040,7 +33040,7 @@
     "geschlecht":1,
     "partei":"CSU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":224
   },
   {
@@ -33051,7 +33051,7 @@
     "geschlecht":2,
     "partei":"SPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":80
   },
   {
@@ -33073,7 +33073,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":279
   },
   {
@@ -33084,7 +33084,7 @@
     "geschlecht":1,
     "partei":"CSU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":231
   },
   {
@@ -33150,7 +33150,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":279
   },
   {
@@ -33161,7 +33161,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":271
   },
   {
@@ -33227,7 +33227,7 @@
     "geschlecht":2,
     "partei":"BGD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":157
   },
   {
@@ -33238,7 +33238,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":73
   },
   {
@@ -33260,7 +33260,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":264
   },
   {
@@ -33370,7 +33370,7 @@
     "geschlecht":2,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":41
   },
   {
@@ -33403,7 +33403,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":23
   },
   {
@@ -33480,7 +33480,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":192
   },
   {
@@ -33535,7 +33535,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":279
   },
   {
@@ -33546,7 +33546,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":238
   },
   {
@@ -33612,7 +33612,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":133
   },
   {
@@ -33678,7 +33678,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":216
   },
   {
@@ -33733,7 +33733,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":199
   },
   {
@@ -33766,7 +33766,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":266
   },
   {
@@ -33821,7 +33821,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":105
   },
   {
@@ -33843,7 +33843,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":110
   },
   {
@@ -33898,7 +33898,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":172
   },
   {
@@ -33920,7 +33920,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":258
   },
   {
@@ -33931,7 +33931,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":238
   },
   {
@@ -33964,7 +33964,7 @@
     "geschlecht":1,
     "partei":"",
     "land":"B",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":83
   },
   {
@@ -34063,7 +34063,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":31
   },
   {
@@ -34096,7 +34096,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":293
   },
   {
@@ -34162,7 +34162,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":292
   },
   {
@@ -34195,7 +34195,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":56
   },
   {
@@ -34250,7 +34250,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":40
   },
   {
@@ -34360,7 +34360,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":130
   },
   {
@@ -34404,7 +34404,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":255
   },
   {
@@ -34470,7 +34470,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":97
   },
   {
@@ -34481,7 +34481,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":228
   },
   {
@@ -34536,7 +34536,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":81
   },
   {
@@ -34569,7 +34569,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":60
   },
   {
@@ -34591,7 +34591,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":108
   },
   {
@@ -34657,7 +34657,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":38
   },
   {
@@ -34712,7 +34712,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":71
   },
   {
@@ -34800,7 +34800,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":117
   },
   {
@@ -34844,7 +34844,7 @@
     "geschlecht":2,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":244
   },
   {
@@ -34855,7 +34855,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":126
   },
   {
@@ -34943,7 +34943,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":4
   },
   {
@@ -35119,7 +35119,7 @@
     "geschlecht":1,
     "partei":"ÖDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":295
   },
   {
@@ -35152,7 +35152,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":162
   },
   {
@@ -35163,7 +35163,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":98
   },
   {
@@ -35196,7 +35196,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":128
   },
   {
@@ -35229,7 +35229,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":111
   },
   {
@@ -35251,7 +35251,7 @@
     "geschlecht":1,
     "partei":"SPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":260
   },
   {
@@ -35284,7 +35284,7 @@
     "geschlecht":2,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":292
   },
   {
@@ -35405,7 +35405,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":273
   },
   {
@@ -35416,7 +35416,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":54
   },
   {
@@ -35482,7 +35482,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":294
   },
   {
@@ -35493,7 +35493,7 @@
     "geschlecht":2,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":166
   },
   {
@@ -35504,7 +35504,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":131
   },
   {
@@ -35548,7 +35548,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":195
   },
   {
@@ -35614,7 +35614,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":86
   },
   {
@@ -35691,7 +35691,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":82
   },
   {
@@ -35724,7 +35724,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":230
   },
   {
@@ -35768,7 +35768,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":102
   },
   {
@@ -35801,7 +35801,7 @@
     "geschlecht":1,
     "partei":"ÖDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":218
   },
   {
@@ -36032,7 +36032,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":108
   },
   {
@@ -36065,7 +36065,7 @@
     "geschlecht":1,
     "partei":"FAMILIE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":32
   },
   {
@@ -36109,7 +36109,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":181
   },
   {
@@ -36120,7 +36120,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":188
   },
   {
@@ -36164,7 +36164,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":96
   },
   {
@@ -36219,7 +36219,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":175
   },
   {
@@ -36263,7 +36263,7 @@
     "geschlecht":2,
     "partei":"Die PARTEI",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":217
   },
   {
@@ -36362,7 +36362,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":35
   },
   {
@@ -36373,7 +36373,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":277
   },
   {
@@ -36461,7 +36461,7 @@
     "geschlecht":1,
     "partei":"BP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":227
   },
   {
@@ -36494,7 +36494,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":155
   },
   {
@@ -36527,7 +36527,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":154
   },
   {
@@ -36538,7 +36538,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":20
   },
   {
@@ -36582,7 +36582,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":278
   },
   {
@@ -36593,7 +36593,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":195
   },
   {
@@ -36615,7 +36615,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":245
   },
   {
@@ -36637,7 +36637,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":108
   },
   {
@@ -36681,7 +36681,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":6
   },
   {
@@ -36758,7 +36758,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":259
   },
   {
@@ -36769,7 +36769,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":66
   },
   {
@@ -36879,7 +36879,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":237
   },
   {
@@ -36923,7 +36923,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":127
   },
   {
@@ -36978,7 +36978,7 @@
     "geschlecht":1,
     "partei":"Die PARTEI",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":81
   },
   {
@@ -37033,7 +37033,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":1
   },
   {
@@ -37044,7 +37044,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":166
   },
   {
@@ -37132,7 +37132,7 @@
     "geschlecht":1,
     "partei":"Die PARTEI",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":79
   },
   {
@@ -37143,7 +37143,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":22
   },
   {
@@ -37187,7 +37187,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":112
   },
   {
@@ -37253,7 +37253,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":241
   },
   {
@@ -37286,7 +37286,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":67
   },
   {
@@ -37308,7 +37308,7 @@
     "geschlecht":1,
     "partei":"MLPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":122
   },
   {
@@ -37385,7 +37385,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":80
   },
   {
@@ -37616,7 +37616,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":84
   },
   {
@@ -37682,7 +37682,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":295
   },
   {
@@ -37737,7 +37737,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":85
   },
   {
@@ -37792,7 +37792,7 @@
     "geschlecht":2,
     "partei":"MLPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":295
   },
   {
@@ -37814,7 +37814,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":76
   },
   {
@@ -37847,7 +37847,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":9
   },
   {
@@ -37913,7 +37913,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":235
   },
   {
@@ -38001,7 +38001,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":103
   },
   {
@@ -38144,7 +38144,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":60
   },
   {
@@ -38298,7 +38298,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":138
   },
   {
@@ -38309,7 +38309,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":294
   },
   {
@@ -38485,7 +38485,7 @@
     "geschlecht":2,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":146
   },
   {
@@ -38507,7 +38507,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":262
   },
   {
@@ -38540,7 +38540,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":113
   },
   {
@@ -38584,7 +38584,7 @@
     "geschlecht":2,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":162
   },
   {
@@ -38628,7 +38628,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":14
   },
   {
@@ -38639,7 +38639,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":167
   },
   {
@@ -38672,7 +38672,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":35
   },
   {
@@ -38683,7 +38683,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":235
   },
   {
@@ -38716,7 +38716,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":84
   },
   {
@@ -38738,7 +38738,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":164
   },
   {
@@ -38771,7 +38771,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":133
   },
   {
@@ -38793,7 +38793,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":144
   },
   {
@@ -38881,7 +38881,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":69
   },
   {
@@ -38914,7 +38914,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":195
   },
   {
@@ -38925,7 +38925,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":130
   },
   {
@@ -38969,7 +38969,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":148
   },
   {
@@ -39002,7 +39002,7 @@
     "geschlecht":2,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":65
   },
   {
@@ -39112,7 +39112,7 @@
     "geschlecht":2,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":106
   },
   {
@@ -39156,7 +39156,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":157
   },
   {
@@ -39167,7 +39167,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":150
   },
   {
@@ -39200,7 +39200,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":141
   },
   {
@@ -39211,7 +39211,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":127
   },
   {
@@ -39222,7 +39222,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":297
   },
   {
@@ -39233,7 +39233,7 @@
     "geschlecht":2,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":46
   },
   {
@@ -39376,7 +39376,7 @@
     "geschlecht":2,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":163
   },
   {
@@ -39398,7 +39398,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":282
   },
   {
@@ -39453,7 +39453,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":280
   },
   {
@@ -39486,7 +39486,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":86
   },
   {
@@ -39508,7 +39508,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":135
   },
   {
@@ -39607,7 +39607,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":188
   },
   {
@@ -39695,7 +39695,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":132
   },
   {
@@ -39783,7 +39783,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":258
   },
   {
@@ -39805,7 +39805,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":178
   },
   {
@@ -39816,7 +39816,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":142
   },
   {
@@ -39827,7 +39827,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":272
   },
   {
@@ -39838,7 +39838,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":34
   },
   {
@@ -39849,7 +39849,7 @@
     "geschlecht":1,
     "partei":"BP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":240
   },
   {
@@ -39926,7 +39926,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":129
   },
   {
@@ -39937,7 +39937,7 @@
     "geschlecht":1,
     "partei":"ÖDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":136
   },
   {
@@ -39970,7 +39970,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":222
   },
   {
@@ -40058,7 +40058,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":124
   },
   {
@@ -40157,7 +40157,7 @@
     "geschlecht":1,
     "partei":"ÖDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":263
   },
   {
@@ -40190,7 +40190,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":113
   },
   {
@@ -40245,7 +40245,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":130
   },
   {
@@ -40256,7 +40256,7 @@
     "geschlecht":2,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":77
   },
   {
@@ -40267,7 +40267,7 @@
     "geschlecht":2,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":206
   },
   {
@@ -40278,7 +40278,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":147
   },
   {
@@ -40333,7 +40333,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":5
   },
   {
@@ -40399,7 +40399,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":20
   },
   {
@@ -40509,7 +40509,7 @@
     "geschlecht":1,
     "partei":"CSU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":236
   },
   {
@@ -40542,7 +40542,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":149
   },
   {
@@ -40608,7 +40608,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":98
   },
   {
@@ -40630,7 +40630,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":146
   },
   {
@@ -40652,7 +40652,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":14
   },
   {
@@ -40663,7 +40663,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":86
   },
   {
@@ -40773,7 +40773,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":189
   },
   {
@@ -40795,7 +40795,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":78
   },
   {
@@ -40806,7 +40806,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":148
   },
   {
@@ -40861,7 +40861,7 @@
     "geschlecht":2,
     "partei":"BüSo",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":206
   },
   {
@@ -40872,7 +40872,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":124
   },
   {
@@ -40894,7 +40894,7 @@
     "geschlecht":1,
     "partei":"BP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":234
   },
   {
@@ -40960,7 +40960,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":290
   },
   {
@@ -40982,7 +40982,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":136
   },
   {
@@ -41059,7 +41059,7 @@
     "geschlecht":2,
     "partei":"SPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":85
   },
   {
@@ -41279,7 +41279,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":260
   },
   {
@@ -41290,7 +41290,7 @@
     "geschlecht":2,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":193
   },
   {
@@ -41323,7 +41323,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":99
   },
   {
@@ -41400,7 +41400,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":33
   },
   {
@@ -41433,7 +41433,7 @@
     "geschlecht":2,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":108
   },
   {
@@ -41576,7 +41576,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":39
   },
   {
@@ -41609,7 +41609,7 @@
     "geschlecht":1,
     "partei":"REP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":208
   },
   {
@@ -41697,7 +41697,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":246
   },
   {
@@ -41774,7 +41774,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":60
   },
   {
@@ -41851,7 +41851,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":49
   },
   {
@@ -41884,7 +41884,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":227
   },
   {
@@ -41917,7 +41917,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":138
   },
   {
@@ -41994,7 +41994,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":284
   },
   {
@@ -42005,7 +42005,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":268
   },
   {
@@ -42049,7 +42049,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":89
   },
   {
@@ -42071,7 +42071,7 @@
     "geschlecht":1,
     "partei":"MLPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":118
   },
   {
@@ -42082,7 +42082,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":218
   },
   {
@@ -42115,7 +42115,7 @@
     "geschlecht":1,
     "partei":"ÖDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":286
   },
   {
@@ -42137,7 +42137,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":157
   },
   {
@@ -42181,7 +42181,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":230
   },
   {
@@ -42203,7 +42203,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":45
   },
   {
@@ -42214,7 +42214,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":168
   },
   {
@@ -42225,7 +42225,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":8
   },
   {
@@ -42280,7 +42280,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":114
   },
   {
@@ -42291,7 +42291,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":116
   },
   {
@@ -42335,7 +42335,7 @@
     "geschlecht":1,
     "partei":"CSU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":257
   },
   {
@@ -42357,7 +42357,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":227
   },
   {
@@ -42368,7 +42368,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":269
   },
   {
@@ -42379,7 +42379,7 @@
     "geschlecht":1,
     "partei":"CSU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":230
   },
   {
@@ -42412,7 +42412,7 @@
     "geschlecht":2,
     "partei":"Tierschutzpartei",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":68
   },
   {
@@ -42456,7 +42456,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":236
   },
   {
@@ -42544,7 +42544,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":83
   },
   {
@@ -42566,7 +42566,7 @@
     "geschlecht":1,
     "partei":"SPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":77
   },
   {
@@ -42577,7 +42577,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":27
   },
   {
@@ -42665,7 +42665,7 @@
     "geschlecht":2,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":125
   },
   {
@@ -42720,7 +42720,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":287
   },
   {
@@ -42731,7 +42731,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":278
   },
   {
@@ -42808,7 +42808,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":122
   },
   {
@@ -42841,7 +42841,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":252
   },
   {
@@ -42874,7 +42874,7 @@
     "geschlecht":2,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":75
   },
   {
@@ -42907,7 +42907,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":42
   },
   {
@@ -42962,7 +42962,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":275
   },
   {
@@ -43061,7 +43061,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":32
   },
   {
@@ -43094,7 +43094,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":137
   },
   {
@@ -43149,7 +43149,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":135
   },
   {
@@ -43160,7 +43160,7 @@
     "geschlecht":1,
     "partei":"SPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":238
   },
   {
@@ -43171,7 +43171,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":32
   },
   {
@@ -43182,7 +43182,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":93
   },
   {
@@ -43193,7 +43193,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":229
   },
   {
@@ -43336,7 +43336,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":243
   },
   {
@@ -43358,7 +43358,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":78
   },
   {
@@ -43424,7 +43424,7 @@
     "geschlecht":2,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":122
   },
   {
@@ -43545,7 +43545,7 @@
     "geschlecht":2,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":138
   },
   {
@@ -43655,7 +43655,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":165
   },
   {
@@ -43754,7 +43754,7 @@
     "geschlecht":1,
     "partei":"Die PARTEI",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":101
   },
   {
@@ -43765,7 +43765,7 @@
     "geschlecht":2,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":143
   },
   {
@@ -43787,7 +43787,7 @@
     "geschlecht":1,
     "partei":"FAMILIE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":127
   },
   {
@@ -43842,7 +43842,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":25
   },
   {
@@ -43853,7 +43853,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":2
   },
   {
@@ -43963,7 +43963,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":166
   },
   {
@@ -44051,7 +44051,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":118
   },
   {
@@ -44073,7 +44073,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":203
   },
   {
@@ -44084,7 +44084,7 @@
     "geschlecht":1,
     "partei":"BüSo",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":152
   },
   {
@@ -44205,7 +44205,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":152
   },
   {
@@ -44260,7 +44260,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":65
   },
   {
@@ -44304,7 +44304,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":183
   },
   {
@@ -44370,7 +44370,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":208
   },
   {
@@ -44414,7 +44414,7 @@
     "geschlecht":1,
     "partei":"BIG",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":43
   },
   {
@@ -44469,7 +44469,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":243
   },
   {
@@ -44557,7 +44557,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":281
   },
   {
@@ -44711,7 +44711,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":243
   },
   {
@@ -44755,7 +44755,7 @@
     "geschlecht":2,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":160
   },
   {
@@ -44788,7 +44788,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":154
   },
   {
@@ -44821,7 +44821,7 @@
     "geschlecht":2,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":55
   },
   {
@@ -44843,7 +44843,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":20
   },
   {
@@ -44887,7 +44887,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":278
   },
   {
@@ -44920,7 +44920,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":268
   },
   {
@@ -44931,7 +44931,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":92
   },
   {
@@ -45041,7 +45041,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":100
   },
   {
@@ -45052,7 +45052,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":145
   },
   {
@@ -45118,7 +45118,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":242
   },
   {
@@ -45162,7 +45162,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":218
   },
   {
@@ -45206,7 +45206,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":113
   },
   {
@@ -45316,7 +45316,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":113
   },
   {
@@ -45393,7 +45393,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":275
   },
   {
@@ -45404,7 +45404,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":67
   },
   {
@@ -45437,7 +45437,7 @@
     "geschlecht":1,
     "partei":"MLPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":114
   },
   {
@@ -45459,7 +45459,7 @@
     "geschlecht":2,
     "partei":"ÖDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":221
   },
   {
@@ -45492,7 +45492,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":39
   },
   {
@@ -45536,7 +45536,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":163
   },
   {
@@ -45602,7 +45602,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":276
   },
   {
@@ -45635,7 +45635,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":107
   },
   {
@@ -45668,7 +45668,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":33
   },
   {
@@ -45701,7 +45701,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":295
   },
   {
@@ -45723,7 +45723,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":229
   },
   {
@@ -45734,7 +45734,7 @@
     "geschlecht":2,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":205
   },
   {
@@ -45767,7 +45767,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":171
   },
   {
@@ -45844,7 +45844,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":201
   },
   {
@@ -45855,7 +45855,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":191
   },
   {
@@ -45888,7 +45888,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":198
   },
   {
@@ -45899,7 +45899,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":231
   },
   {
@@ -45976,7 +45976,7 @@
     "geschlecht":2,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":147
   },
   {
@@ -46053,7 +46053,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":264
   },
   {
@@ -46141,7 +46141,7 @@
     "geschlecht":1,
     "partei":"SPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":165
   },
   {
@@ -46152,7 +46152,7 @@
     "geschlecht":1,
     "partei":"REP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":278
   },
   {
@@ -46207,7 +46207,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":98
   },
   {
@@ -46284,7 +46284,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":172
   },
   {
@@ -46317,7 +46317,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":95
   },
   {
@@ -46339,7 +46339,7 @@
     "geschlecht":1,
     "partei":"MLPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":141
   },
   {
@@ -46405,7 +46405,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":283
   },
   {
@@ -46438,7 +46438,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":175
   },
   {
@@ -46504,7 +46504,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":26
   },
   {
@@ -46515,7 +46515,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":177
   },
   {
@@ -46625,7 +46625,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":43
   },
   {
@@ -46658,7 +46658,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":97
   },
   {
@@ -46669,7 +46669,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":144
   },
   {
@@ -46713,7 +46713,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":31
   },
   {
@@ -46746,7 +46746,7 @@
     "geschlecht":2,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":10
   },
   {
@@ -46757,7 +46757,7 @@
     "geschlecht":2,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":220
   },
   {
@@ -46779,7 +46779,7 @@
     "geschlecht":1,
     "partei":"BüSo",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":153
   },
   {
@@ -46889,7 +46889,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":85
   },
   {
@@ -47021,7 +47021,7 @@
     "geschlecht":2,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":27
   },
   {
@@ -47032,7 +47032,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":207
   },
   {
@@ -47043,7 +47043,7 @@
     "geschlecht":1,
     "partei":"CDU",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":273
   },
   {
@@ -47054,7 +47054,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":137
   },
   {
@@ -47109,7 +47109,7 @@
     "geschlecht":1,
     "partei":"Anderer KWV",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":14
   },
   {
@@ -47252,7 +47252,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":130
   },
   {
@@ -47329,7 +47329,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":201
   },
   {
@@ -47351,7 +47351,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":25
   },
   {
@@ -47417,7 +47417,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":189
   },
   {
@@ -47428,7 +47428,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":284
   },
   {
@@ -47439,7 +47439,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":178
   },
   {
@@ -47461,7 +47461,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":125
   },
   {
@@ -47527,7 +47527,7 @@
     "geschlecht":1,
     "partei":"ÖDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":225
   },
   {
@@ -47582,7 +47582,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":124
   },
   {
@@ -47604,7 +47604,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":92
   },
   {
@@ -47648,7 +47648,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":182
   },
   {
@@ -47780,7 +47780,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":135
   },
   {
@@ -47846,7 +47846,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":284
   },
   {
@@ -47912,7 +47912,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":283
   },
   {
@@ -47923,7 +47923,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":47
   },
   {
@@ -48011,7 +48011,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":121
   },
   {
@@ -48033,7 +48033,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":201
   },
   {
@@ -48044,7 +48044,7 @@
     "geschlecht":1,
     "partei":"FDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":71
   },
   {
@@ -48176,7 +48176,7 @@
     "geschlecht":1,
     "partei":"PARTEI DER VERNUNFT",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":206
   },
   {
@@ -48242,7 +48242,7 @@
     "geschlecht":1,
     "partei":"DKP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":64
   },
   {
@@ -48253,7 +48253,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":125
   },
   {
@@ -48308,7 +48308,7 @@
     "geschlecht":1,
     "partei":"AfD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":179
   },
   {
@@ -48330,7 +48330,7 @@
     "geschlecht":2,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":103
   },
   {
@@ -48385,7 +48385,7 @@
     "geschlecht":2,
     "partei":"DIE VIOLETTEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":83
   },
   {
@@ -48396,7 +48396,7 @@
     "geschlecht":2,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":119
   },
   {
@@ -48407,7 +48407,7 @@
     "geschlecht":1,
     "partei":"REP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":176
   },
   {
@@ -48418,7 +48418,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":228
   },
   {
@@ -48429,7 +48429,7 @@
     "geschlecht":1,
     "partei":"FREIE WÄHLER",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":147
   },
   {
@@ -48451,7 +48451,7 @@
     "geschlecht":2,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":223
   },
   {
@@ -48638,7 +48638,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":97
   },
   {
@@ -48671,7 +48671,7 @@
     "geschlecht":1,
     "partei":"GRÜNE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":38
   },
   {
@@ -48715,7 +48715,7 @@
     "geschlecht":1,
     "partei":"ÖDP",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":277
   },
   {
@@ -48748,7 +48748,7 @@
     "geschlecht":1,
     "partei":"PIRATEN",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":213
   },
   {
@@ -48847,7 +48847,7 @@
     "geschlecht":1,
     "partei":"DIE LINKE",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":228
   },
   {
@@ -48935,7 +48935,7 @@
     "geschlecht":1,
     "partei":"NPD",
     "land":"",
-    "platz":   ,
+    "platz":"",
     "wahlkreis":100
   },
   {
