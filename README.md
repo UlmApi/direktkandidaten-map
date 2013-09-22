@@ -1,6 +1,6 @@
 # Readme
 
-Ergebnis ist online unter http://ulmapi.github.io/direktkandidaten-map.
+Ergebnis ist online unter http://www.ulmapi.de/direktkandidaten-map.
 
 
 ## Wahlbewerber Bundestagswahl 2013 
