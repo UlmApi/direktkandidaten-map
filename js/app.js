@@ -35,7 +35,9 @@ var dk = {};
 
 	var colors = {
 		red: ["#fee0d2", "#fcbba1", "#fc9272", "#fb6a4a", "#ef3b2c", "#cb181d", "#a50f15", "#67000d"],
-		green: ["#e5f5e0", "#c7e9c0", "#a1d99b", "#74c476", "#41ab5d", "#238b45", "#006d2c", "#00441b"]
+		green: ["#e5f5e0", "#c7e9c0", "#a1d99b", "#74c476", "#41ab5d", "#238b45", "#006d2c", "#00441b"],
+		blue: ["#DEEBF7", "#C6DBEF", "#9ECAE1", "#6BAED6", "#4292C6", "#2171B5", "#08519C", "#08306B"],
+		orange: ["#fff5eb", "#fee6ce", "#fdd0a2", "#fdae6b", "#fd8d3c", "#f16913", "#d94801", "#8c2d04"]
 	};
 
 	var map = {
@@ -82,7 +84,7 @@ var dk = {};
 			this.renderComparison();
 		},
 		renderComparison: function() {
-			var districtData = this.filter.age(this.settings.parteien);
+			var districtData = this.filter[this.settings.compare](this.settings.parteien);
 			var log10Boundary = this.getLog10Boundary(districtData);
 			this.colorLayers(districtData, log10Boundary);
 		},
@@ -111,12 +113,15 @@ var dk = {};
 					var style = this.getLayerStyle(district.value, log10Boundary);
 					var html = "Wahlkreis: <strong>" + layer.label + "</strong><br /><br />";
 					html += "<table class='table table-condensed table-bordered'>";
+					html += '<tr><td>Partei</td><td>Alter</td><td>m/w</td><td>Name</td></tr>';
 					_.each(bewerber, function(einBewerber) {
 						var alter = (new Date().getFullYear()) - einBewerber.geburtsjahr;
-						html += '<tr><td>' + einBewerber.partei + '</td><td>' + alter + '</td></tr>';
+						var geschlecht = einBewerber.geschlecht === 1 ? 'm' : 'w';
+						html += '<tr><td>' + einBewerber.partei + '</td><td>' + alter + '</td><td>' + geschlecht + '</td><td>' + einBewerber.name
+								+ '</td></tr>';
 					});
 					html += "</table>";
-					html += "<em>Durchschnittsalter: " + formatNumber(Math.round(district.value)) + "</em>";
+					html += "<em>maßgeblicher Wert für die Einfärbung: " + formatNumber(Math.round(district.value)) + "</em>";
 
 					_.each(this.areaLayers, _.bind(function(area) {
 						if (area.key === parseInt(district.key, 10)) {
@@ -140,7 +145,7 @@ var dk = {};
 				return '#EEE';
 			}
 
-			var colorScheme = (value <= 0) ? colors.green : colors.red;
+			var colorScheme = (value <= 0) ? colors.orange : colors.blue;
 			var factor = this.getComparisonFactor(value, log10Boundary);
 			var colorIndex = Math.max(0, Math.round((colorScheme.length - 1) * factor));
 			return colorScheme[colorIndex];
