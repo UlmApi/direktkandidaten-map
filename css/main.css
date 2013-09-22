@@ -88,3 +88,8 @@ label.radio {
 label.title {
 	margin-top: 6px;
 }
+
+.settings select {
+	width: 150px;
+	height: 10em;
+}
