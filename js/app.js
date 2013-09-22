@@ -1,5 +1,9 @@
 'use strict';
 
+var parteien = ['CDU', 'SPD', 'GRÜNE', 'DIE LINKE', 'FDP', 'AfD', 'PIRATEN', 'CSU', 'keine Angabe (Landtag)', 'Anderer KWV', 'BGD', 'BIG', 'BP',
+	'Bündnis 21/RRP', 'BüSo', 'DIE FRAUEN', 'Die PARTEI', 'DIE RECHTE', 'DIE VIOLETTEN', 'DKP', 'FAMILIE', 'FREIE WÄHLER', 'MLPD', 'NEIN!', 'NPD', 'ÖDP',
+	'Partei der Nichtwähler', 'PARTEI DER VERNUNFT', 'PBC', 'pro Deutschland', 'PSG', 'RENTNER', 'REP', 'Tierschutzpartei', 'Volksabstimmung'];
+
 var dk = {};
 (function(dk, L, _, $) {
 	var safeLog10 = function(number) {
@@ -12,10 +16,6 @@ var dk = {};
 		var absNumber = Math.abs(+number || 0) + "";
 		var thousands = (absNumber.length > 3) ? absNumber.length % 3 : 0;
 		return negative + (thousands ? absNumber.substr(0, thousands) + thousand : "") + absNumber.substr(thousands).replace(/(\d{3})(?=\d)/g, "$1" + thousand);
-	};
-
-	var fillTime = function(timeValue) {
-		return (timeValue < 10) ? '0' + timeValue : timeValue;
 	};
 
 	var toLiteral = function(array) {
@@ -54,11 +54,20 @@ var dk = {};
 			$(dk).on('map.loaded.areaLayers map.loaded.data', _.bind(this.fireMapIsReady, this));
 			$(dk).on('map.ready', _.bind(this.renderComparison, this));
 
+			this.fillPartySelect(parteien);
+
 			$('.settings').on('change', _.bind(this.onSettingsChange, this));
 			this.settings = toLiteral($('.settings').serializeArray());
 
 			this.loadAreaLayers();
 			this.loadData();
+		},
+		fillPartySelect: function(parteien) {
+			var html = '';
+			_.each(parteien, function(partei) {
+				html += '<option value="' + partei + '" selected="selected">' + partei + '</option>';
+			});
+			$('.parties').html(html);
 		},
 		onSettingsChange: function() {
 			this.settings = toLiteral($('.settings').serializeArray());
@@ -88,7 +97,7 @@ var dk = {};
 				if (layer) {
 					var style = this.getLayerStyle(district.value, log10Boundary);
 					var html = "Wahlkreis: <strong>" + layer.label + "</strong><br /><br />";
-					html += district.value;
+					html += "Durchschnittsalter: " + formatNumber(district.value);
 
 					_.each(this.areaLayers, _.bind(function(area) {
 						if (area.key === parseInt(district.key, 10)) {
