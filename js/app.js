@@ -153,7 +153,7 @@ var dk = {};
 			}
 		},
 		loadAreaLayers: function() {
-			$.getJSON('data/Berlin-Bezirke.geojson', _.bind(function(data) {
+			$.getJSON('data/wahlkreise.geojson', _.bind(function(data) {
 				this.addAreaLayers(data);
 				$(dk).triggerHandler('map.loaded.areaLayers');
 			}, this));
