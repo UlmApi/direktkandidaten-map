@@ -4,11 +4,11 @@ var data = {
 		var wahlkreis_age = {};
 
 		/* prepare wahlkreis_age */
-		for (var i in dk.bewerber) {
+		for ( var i in dk.bewerber) {
 			var bewerber = dk.bewerber[i];
 			var age = (new Date().getFullYear()) - bewerber.geburtsjahr;
 
-			for (var p in parteien) {
+			for ( var p in parteien) {
 				if (bewerber.partei === parteien[p]) {
 					if (wahlkreis_age[bewerber.wahlkreis] == undefined)
 						wahlkreis_age[bewerber.wahlkreis] = [];
@@ -20,7 +20,7 @@ var data = {
 
 		/* get average age value */
 		var res = [];
-		for (var i in wahlkreis_age) {
+		for ( var i in wahlkreis_age) {
 			// console.log(i)
 			var sum = wahlkreis_age[i].reduce(function(pv, cv) {
 				return pv + cv;
@@ -42,10 +42,10 @@ var data = {
 		// -1 + 2 * maennlich
 
 		/* prepare wahlkreis_gender */
-		for (var i in dk.bewerber) {
+		for ( var i in dk.bewerber) {
 			var bewerber = dk.bewerber[i];
 
-			for (var p in parteien) {
+			for ( var p in parteien) {
 				if (bewerber.partei === parteien[p]) {
 					if (wahlkreis_gender[bewerber.wahlkreis] == undefined)
 						wahlkreis_gender[bewerber.wahlkreis] = [];
@@ -61,7 +61,7 @@ var data = {
 
 		/* get average gender value */
 		var res = [];
-		for (var i in wahlkreis_age) {
+		for ( var i in wahlkreis_age) {
 			// console.log(i)
 			var sum_m = wahlkreis_gender_m[i].reduce(function(pv, cv) {
 				return pv + cv;
@@ -70,8 +70,8 @@ var data = {
 			var perc_m = sum_m / (wahlkreis_gender_m.length + wahlkreis_gender_w);
 
 			res.push({
-				"key": i
-				, "value": -1 + 2 * perc_m;
+				"key": i,
+				"value": -1 + 2 * perc_m
 			});
 		}
 
