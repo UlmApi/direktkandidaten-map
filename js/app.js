@@ -55,8 +55,8 @@ var dk = {};
 				maxZoom: 12
 			});
 
-			var attribution = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>, Created by: Michael Müller, <a href="http://blog.opendatalab.de">Felix Ebert</a>';
-			L.tileLayer('http://{s}.tile.cloudmade.com/036a729cf53d4388a8ec345e1543ef53/44094/256/{z}/{x}/{y}.png', {
+			var attribution = '<a href="http://www.mapbox.com/about/maps/" target="_blank">Terms &amp; Feedback</a> | Created by: Michael Müller, <a href="http://blog.opendatalab.de">Felix Ebert</a>';
+			L.tileLayer('https://{s}.tiles.mapbox.com/v3/codeforheilbronn.i4fmboco/{z}/{x}/{y}.png', {
 				'attribution': attribution,
 				'maxZoom': 18
 			}).addTo(this.leafletMap);
