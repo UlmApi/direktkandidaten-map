@@ -14,14 +14,15 @@
 	<div id="map"></div>
 	<div id="loading"></div>
 	
-	<div id="nav">
+	<div id="nav" style="width:220px;padding-bottom:20px; padding-left:5px;padding-right:5px;">
 		<form class="nav-container settings form-inline" method="GET" action="index.html">
-			<label class="title">Was vergleichen?</label>
+			<label class="title"><h3 style="margin-bottom:0px;font-size:20px;">Bundestagswahl 2013<br />Direktkandidaten</h3></label>
+			<label class="title"><h5>Was vergleichen?</h5></label>
 			<p>
 				<label class="radio"><input type="radio" name="compare" value="age" checked="checked"> Durchschnittsalter</label>
 				<label class="radio"><input type="radio" name="compare" value="gender"> Geschlecht</label>
 			</p>
-			<label class="title">Parteien</label>
+			<label class="title"><h5>Parteien</h5></label>
 			<p>
 				<select name="parteien" multiple="multiple" class="parties" id="parties">
 				</select>
@@ -30,7 +31,7 @@
 	</div>
 
 	<div class="logos">
-		<a class="fancybox" href="https://github.com/UlmApi/direktkandidaten-map">
+		<a class="fancybox" target="_blank" href="https://github.com/UlmApi/direktkandidaten-map">
 			<img src="./img/ulmapi.png" alt="ulmapi" title="Weitere Infos zu diesem Projekt" />
 		</a>
 	</div>
